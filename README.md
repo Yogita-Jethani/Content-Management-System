@@ -7,4 +7,4 @@ PHP
 ![Screenshot](https://github.com/Yogita-Jethani/Content-Management-System/blob/master/searchandfetchbyuploaderandcategory.gif)
 
 ### Admin Page
-![Screenshot](https://github.com/Yogita-Jethani/Content-Management-System/blob/master/addingpost.gif)
+![Screenshot](https://github.com/Yogita-Jethani/Content-Management-System/blob/master/adding%20post%20oop%20blog.gif)
